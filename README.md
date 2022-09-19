@@ -1,6 +1,6 @@
-# Bonjour ! 🥖
+# Hello ! 👋
 
-My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
+My name is Valentin Briand. I am a full-stack developer living Indonesia. 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
