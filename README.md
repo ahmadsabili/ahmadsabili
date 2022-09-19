@@ -14,9 +14,11 @@ My name is Ahmad Sabili. I am a full-stack developer living Indonesia.
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/laravel-282C34?logo=laravel&logoColor=F05032" alt="laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=F7DF1E" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=F05032" alt="laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
