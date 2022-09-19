@@ -1,6 +1,6 @@
 # Hello ! 👋
 
-My name is Valentin Briand. I am a full-stack developer living Indonesia. 
+My name is Ahmad Sabili. I am a full-stack developer living Indonesia. 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
@@ -18,8 +18,6 @@ My name is Valentin Briand. I am a full-stack developer living Indonesia.
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
-
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
@@ -34,6 +32,7 @@ My name is Valentin Briand. I am a full-stack developer living Indonesia.
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 
 ## 👾  What I am interested in learning at some point
 
