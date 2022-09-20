@@ -34,7 +34,7 @@ My name is Ahmad Sabili. I am a full-stack developer living Indonesia.
 &nbsp;
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin" alt="Kotlin logo" title="ESLint" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=f28319" alt="Kotlin logo" title="Kotlin Logo" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 &nbsp;
