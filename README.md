@@ -1,8 +1,6 @@
 # Hello ! 👋
 
-My name is Ahmad Sabili. I am a full-stack developer living Indonesia. 
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+My name is Ahmad Sabili. I am a full-stack developer living Indonesia.
 
 ## 🛠  Technologies and tools
 
