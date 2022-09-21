@@ -1,6 +1,6 @@
 # Hello ! 👋
 
-My name is Ahmad Sabili. I am a full-stack developer living Indonesia.
+My name is Ahmad Sabili. I am a full-stack developer from Indonesia.
 
 ## 🛠  Technologies and tools
 
